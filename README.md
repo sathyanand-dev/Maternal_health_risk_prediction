@@ -63,4 +63,4 @@ To access the admin dashboard:
 
 ## Contributors
 
-- Dinesh K K V - kkvdinesh1009@gmail.com
+- sathyanand-dev - sathyanand02@gmail.com
